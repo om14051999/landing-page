@@ -10,7 +10,7 @@ export default function Hero() {
     >
       <Container style={{ textAlign: "center" }}>
         <AnimatedBox animation={fadeInUp}>
-          <Typography variant="h2">Hi, I'm John Doe</Typography>
+          <Typography variant="h2">Hi, I'm Omkar Yadav</Typography>
         </AnimatedBox>
         <Typography variant="h6" color="text.secondary" sx={{ mt: 2 }}>
           Frontend Developer | React Enthusiast
